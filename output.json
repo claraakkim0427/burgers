@@ -3,451 +3,462 @@
         {
             "types": [
                 "american_restaurant",
-                "hamburger_restaurant",
-                "brunch_restaurant",
-                "bar",
-                "restaurant",
-                "point_of_interest",
-                "food",
-                "establishment"
-            ],
-            "internationalPhoneNumber": "+1 718-488-7800",
-            "formattedAddress": "166 Dekalb Ave, Brooklyn, NY 11217, USA",
-            "rating": 4.4,
-            "googleMapsUri": "https://maps.google.com/?cid=3367954505002117835",
-            "websiteUri": "http://waltersbrooklyn.com/",
-            "businessStatus": "OPERATIONAL",
-            "displayName": {
-                "text": "Walter's"
-            }
-        },
-        {
-            "types": [
-                "hamburger_restaurant",
-                "sandwich_shop",
-                "fast_food_restaurant",
-                "american_restaurant",
-                "meal_takeaway",
-                "restaurant",
-                "point_of_interest",
-                "food",
-                "establishment"
-            ],
-            "internationalPhoneNumber": "+1 718-307-7590",
-            "formattedAddress": "409 Fulton St, Brooklyn, NY 11201, USA",
-            "rating": 4.3,
-            "googleMapsUri": "https://maps.google.com/?cid=4786721306117911370",
-            "websiteUri": "https://www.shakeshack.com/location/downtown-brooklyn-ny?utm_source=google&utm_medium=listing",
-            "businessStatus": "OPERATIONAL",
-            "displayName": {
-                "text": "Shake Shack Downtown Brooklyn"
-            }
-        },
-        {
-            "types": [
-                "pizza_restaurant",
-                "hamburger_restaurant",
-                "meal_delivery",
-                "american_restaurant",
-                "meal_takeaway",
-                "restaurant",
-                "point_of_interest",
-                "food",
-                "establishment"
-            ],
-            "internationalPhoneNumber": "+1 347-844-9588",
-            "formattedAddress": "919 Fulton St, Brooklyn, NY 11238, USA",
-            "rating": 4.4,
-            "googleMapsUri": "https://maps.google.com/?cid=8025592648345834275",
-            "websiteUri": "https://www.pizzalovesemily.com/location/brooklyn/",
-            "businessStatus": "OPERATIONAL",
-            "displayName": {
-                "text": "Emily"
-            }
-        },
-        {
-            "types": [
-                "american_restaurant",
-                "hamburger_restaurant",
-                "brunch_restaurant",
-                "bar",
-                "restaurant",
-                "point_of_interest",
-                "food",
-                "establishment"
-            ],
-            "internationalPhoneNumber": "+1 718-486-3077",
-            "formattedAddress": "85 Broadway, Brooklyn, NY 11249, USA",
-            "rating": 4.3,
-            "googleMapsUri": "https://maps.google.com/?cid=3719098524587665183",
-            "websiteUri": "http://dinernyc.com/",
-            "businessStatus": "OPERATIONAL",
-            "displayName": {
-                "text": "Diner"
-            }
-        },
-        {
-            "types": [
-                "fast_food_restaurant",
-                "hamburger_restaurant",
-                "american_restaurant",
-                "restaurant",
-                "point_of_interest",
-                "food",
-                "establishment"
-            ],
-            "internationalPhoneNumber": "+1 718-287-5005",
-            "formattedAddress": "469 Flatbush Ave, Brooklyn, NY 11225, USA",
-            "rating": 3.6,
-            "googleMapsUri": "https://maps.google.com/?cid=18130969664018427180",
-            "websiteUri": "https://locations.wendys.com/united-states/ny/brooklyn/469-flatbush-ave?utm_source=Yext&utm_medium=Google_My_Business&utm_campaign=Local_Search&utm_content=EN_US",
-            "businessStatus": "OPERATIONAL",
-            "displayName": {
-                "text": "Wendy's"
-            }
-        },
-        {
-            "types": [
-                "hamburger_restaurant",
-                "sandwich_shop",
-                "fast_food_restaurant",
-                "american_restaurant",
-                "meal_takeaway",
-                "restaurant",
-                "point_of_interest",
-                "food",
-                "establishment"
-            ],
-            "internationalPhoneNumber": "+1 929-427-0420",
-            "formattedAddress": "160 Berry St, Brooklyn, NY 11249, USA",
-            "rating": 4.3,
-            "googleMapsUri": "https://maps.google.com/?cid=16770742442048044046",
-            "websiteUri": "https://www.shakeshack.com/location/williamsburg-ny?utm_source=google&utm_medium=listing",
-            "businessStatus": "OPERATIONAL",
-            "displayName": {
-                "text": "Shake Shack Williamsburg"
-            }
-        },
-        {
-            "types": [
-                "cafe",
-                "sandwich_shop",
-                "hamburger_restaurant",
-                "coffee_shop",
-                "bar",
-                "american_restaurant",
-                "meal_takeaway",
-                "restaurant",
-                "point_of_interest",
-                "store",
-                "food",
-                "establishment"
-            ],
-            "internationalPhoneNumber": "+1 718-399-2211",
-            "formattedAddress": "409 Lincoln Pl, Brooklyn, NY 11238, USA",
-            "rating": 4.4,
-            "googleMapsUri": "https://maps.google.com/?cid=15299862879029215794",
-            "websiteUri": "http://www.stationfoods.com/",
-            "businessStatus": "OPERATIONAL",
-            "displayName": {
-                "text": "Lincoln Station"
-            }
-        },
-        {
-            "types": [
-                "fast_food_restaurant",
-                "sandwich_shop",
-                "hamburger_restaurant",
                 "breakfast_restaurant",
-                "coffee_shop",
-                "cafe",
-                "american_restaurant",
+                "hamburger_restaurant",
+                "brunch_restaurant",
+                "seafood_restaurant",
+                "bar",
+                "sandwich_shop",
                 "restaurant",
-                "point_of_interest",
-                "store",
                 "food",
+                "point_of_interest",
                 "establishment"
             ],
-            "internationalPhoneNumber": "+1 929-497-0172",
-            "formattedAddress": "82 Court St, Brooklyn, NY 11201, USA",
-            "rating": 3.5,
-            "googleMapsUri": "https://maps.google.com/?cid=3572484155236151892",
-            "websiteUri": "https://www.mcdonalds.com/us/en-us/location/NY/BROOKLYN/82-COURT-ST/4705.html?cid=RF:YXT:GMB::Clicks",
+            "internationalPhoneNumber": "+1 202-822-8783",
+            "formattedAddress": "1924 Pennsylvania Avenue NW, Washington, DC 20006, USA",
+            "rating": 4.4,
+            "googleMapsUri": "https://maps.google.com/?cid=16277699927814263029",
+            "websiteUri": "https://www.wearefoundingfarmers.com/location/dc/",
             "businessStatus": "OPERATIONAL",
             "displayName": {
-                "text": "McDonald's"
+                "text": "Founding Farmers"
+            }
+        },
+        {
+            "types": [
+                "american_restaurant",
+                "breakfast_restaurant",
+                "sushi_restaurant",
+                "hamburger_restaurant",
+                "brunch_restaurant",
+                "bar",
+                "japanese_restaurant",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "internationalPhoneNumber": "+1 202-298-8783",
+            "formattedAddress": "The Washington, Harbour at The Georgetown Waterfront, 3000 K St NW, Washington, DC 20007, USA",
+            "rating": 4.3,
+            "googleMapsUri": "https://maps.google.com/?cid=7938707866748159781",
+            "websiteUri": "https://www.wearefoundingfarmers.com/location/founding-farmers-fishers-bakers/",
+            "businessStatus": "OPERATIONAL",
+            "displayName": {
+                "text": "Founding Farmers Fishers & Bakers"
             }
         },
         {
             "types": [
                 "hamburger_restaurant",
-                "sandwich_shop",
                 "fast_food_restaurant",
                 "american_restaurant",
+                "sandwich_shop",
                 "meal_takeaway",
                 "restaurant",
-                "point_of_interest",
                 "food",
+                "point_of_interest",
                 "establishment"
             ],
-            "internationalPhoneNumber": "+1 347-442-7711",
-            "formattedAddress": "170 Flatbush Ave, Brooklyn, NY 11217, USA",
+            "internationalPhoneNumber": "+1 202-800-9930",
+            "formattedAddress": "800 F St NW, Washington, DC 20004, USA",
             "rating": 4.2,
-            "googleMapsUri": "https://maps.google.com/?cid=3370748772294951002",
-            "websiteUri": "https://www.shakeshack.com/location/flatbush-barclays-ctr-ny?utm_source=google&utm_medium=listing",
+            "googleMapsUri": "https://maps.google.com/?cid=3698077547458994704",
+            "websiteUri": "https://www.shakeshack.com/location/f-street-dc/?utm_source=google&utm_medium=listing",
             "businessStatus": "OPERATIONAL",
             "displayName": {
-                "text": "Shake Shack Flatbush - Barclays Ctr"
+                "text": "Shake Shack F Street"
             }
         },
         {
             "types": [
                 "american_restaurant",
-                "hamburger_restaurant",
-                "meal_delivery",
-                "brunch_restaurant",
-                "bar",
-                "meal_takeaway",
-                "restaurant",
-                "point_of_interest",
-                "food",
-                "establishment"
-            ],
-            "internationalPhoneNumber": "+1 718-852-8490",
-            "formattedAddress": "524 Court St, Brooklyn, NY 11231, USA",
-            "rating": 4.5,
-            "googleMapsUri": "https://maps.google.com/?cid=17317402706294528394",
-            "websiteUri": "http://buttermilkchannelnyc.com/",
-            "businessStatus": "OPERATIONAL",
-            "displayName": {
-                "text": "Buttermilk Channel"
-            }
-        },
-        {
-            "types": [
-                "fast_food_restaurant",
-                "sandwich_shop",
-                "hamburger_restaurant",
-                "breakfast_restaurant",
-                "coffee_shop",
-                "cafe",
-                "american_restaurant",
-                "restaurant",
-                "point_of_interest",
-                "store",
-                "food",
-                "establishment"
-            ],
-            "internationalPhoneNumber": "+1 718-599-2870",
-            "formattedAddress": "700 Broadway, Brooklyn, NY 11206, USA",
-            "rating": 3.8,
-            "googleMapsUri": "https://maps.google.com/?cid=1599988420802622232",
-            "websiteUri": "https://www.mcdonalds.com/us/en-us/location/NY/BROOKLYN/700-BROADWAY/3375.html?cid=RF:YXT:GMB::Clicks",
-            "businessStatus": "OPERATIONAL",
-            "displayName": {
-                "text": "McDonald's"
-            }
-        },
-        {
-            "types": [
-                "fast_food_restaurant",
-                "sandwich_shop",
-                "hamburger_restaurant",
-                "breakfast_restaurant",
-                "coffee_shop",
-                "cafe",
-                "american_restaurant",
-                "restaurant",
-                "point_of_interest",
-                "store",
-                "food",
-                "establishment"
-            ],
-            "internationalPhoneNumber": "+1 718-783-5766",
-            "formattedAddress": "840 Atlantic Ave, Brooklyn, NY 11238, USA",
-            "rating": 3.5,
-            "googleMapsUri": "https://maps.google.com/?cid=7797529834684841979",
-            "websiteUri": "https://www.mcdonalds.com/us/en-us/location/NY/BROOKLYN/840-ATLANTIC-AVE/23105.html?cid=RF:YXT:GMB::Clicks",
-            "businessStatus": "OPERATIONAL",
-            "displayName": {
-                "text": "McDonald's"
-            }
-        },
-        {
-            "types": [
-                "fast_food_restaurant",
-                "sandwich_shop",
-                "hamburger_restaurant",
-                "breakfast_restaurant",
-                "coffee_shop",
-                "cafe",
-                "american_restaurant",
-                "restaurant",
-                "point_of_interest",
-                "store",
-                "food",
-                "establishment"
-            ],
-            "internationalPhoneNumber": "+1 929-442-5594",
-            "formattedAddress": "395 Flatbush Ave Ext, Brooklyn, NY 11201, USA",
-            "rating": 3.6,
-            "googleMapsUri": "https://maps.google.com/?cid=2761305573940483036",
-            "websiteUri": "https://www.mcdonalds.com/us/en-us/location/NY/BROOKLYN/395-FLATBUSH-AVE-EXTEN/4025.html?cid=RF:YXT:GMB::Clicks",
-            "businessStatus": "OPERATIONAL",
-            "displayName": {
-                "text": "McDonald's"
-            }
-        },
-        {
-            "types": [
-                "hamburger_restaurant",
-                "night_club",
-                "bar",
-                "american_restaurant",
-                "restaurant",
-                "point_of_interest",
-                "food",
-                "establishment"
-            ],
-            "internationalPhoneNumber": "+1 347-767-2587",
-            "formattedAddress": "448 Dean St, Brooklyn, NY 11217, USA",
-            "rating": 4.6,
-            "googleMapsUri": "https://maps.google.com/?cid=12760817624955396117",
-            "websiteUri": "https://charmbarrestaurant.com/",
-            "businessStatus": "OPERATIONAL",
-            "displayName": {
-                "text": "Charm Bar & Restaurant"
-            }
-        },
-        {
-            "types": [
-                "hamburger_restaurant",
-                "bar",
-                "american_restaurant",
-                "restaurant",
-                "point_of_interest",
-                "food",
-                "establishment"
-            ],
-            "internationalPhoneNumber": "+1 347-365-2710",
-            "formattedAddress": "234 Starr St, Brooklyn, NY 11237, USA",
-            "rating": 4.6,
-            "googleMapsUri": "https://maps.google.com/?cid=10721870777767595349",
-            "websiteUri": "http://santasalsastreet.com/",
-            "businessStatus": "OPERATIONAL",
-            "displayName": {
-                "text": "Santa Salsa"
-            }
-        },
-        {
-            "types": [
                 "hamburger_restaurant",
                 "fast_food_restaurant",
-                "american_restaurant",
-                "meal_takeaway",
                 "restaurant",
-                "point_of_interest",
                 "food",
+                "point_of_interest",
                 "establishment"
             ],
-            "internationalPhoneNumber": "+1 347-486-3550",
-            "formattedAddress": "5212 Kings Hwy Suite B, Brooklyn, NY 11234, USA",
-            "rating": 3.8,
-            "googleMapsUri": "https://maps.google.com/?cid=17404304058181411773",
-            "websiteUri": "https://locations.jollibeefoods.com/usa/ny/brooklyn/5212-kings-highway?utm_medium=organic&utm_source=local&utm_campaign=googlelistings&utm_content=website&utm_term=3086",
-            "businessStatus": "OPERATIONAL",
-            "displayName": {
-                "text": "Jollibee"
-            }
-        },
-        {
-            "types": [
-                "fast_food_restaurant",
-                "sandwich_shop",
-                "hamburger_restaurant",
-                "breakfast_restaurant",
-                "coffee_shop",
-                "cafe",
-                "american_restaurant",
-                "restaurant",
-                "point_of_interest",
-                "store",
-                "food",
-                "establishment"
-            ],
-            "internationalPhoneNumber": "+1 718-573-8797",
-            "formattedAddress": "1380 Broadway, Brooklyn, NY 11221, USA",
-            "rating": 3.6,
-            "googleMapsUri": "https://maps.google.com/?cid=1705895180805640166",
-            "websiteUri": "https://www.mcdonalds.com/us/en-us/location/NY/BROOKLYN/1380-BROADWAY/27377.html?cid=RF:YXT:GMB::Clicks",
-            "businessStatus": "OPERATIONAL",
-            "displayName": {
-                "text": "McDonald's"
-            }
-        },
-        {
-            "types": [
-                "fast_food_restaurant",
-                "sandwich_shop",
-                "hamburger_restaurant",
-                "breakfast_restaurant",
-                "coffee_shop",
-                "cafe",
-                "american_restaurant",
-                "restaurant",
-                "point_of_interest",
-                "store",
-                "food",
-                "establishment"
-            ],
-            "internationalPhoneNumber": "+1 718-302-3177",
-            "formattedAddress": "267 Broadway, Brooklyn, NY 11211, USA",
-            "rating": 3.7,
-            "googleMapsUri": "https://maps.google.com/?cid=1476230673518531756",
-            "websiteUri": "https://www.mcdonalds.com/us/en-us/location/NY/BROOKLYN/267-BROADWAY/21402.html?cid=RF:YXT:GMB::Clicks",
-            "businessStatus": "OPERATIONAL",
-            "displayName": {
-                "text": "McDonald's"
-            }
-        },
-        {
-            "types": [
-                "hamburger_restaurant",
-                "american_restaurant",
-                "restaurant",
-                "point_of_interest",
-                "food",
-                "establishment"
-            ],
-            "internationalPhoneNumber": "+1 646-224-6919",
-            "formattedAddress": "177 Bedford Ave, Brooklyn, NY 11211, USA",
+            "internationalPhoneNumber": "+1 202-667-0909",
+            "formattedAddress": "1213 U St NW, Washington, DC 20009, USA",
             "rating": 4.4,
-            "googleMapsUri": "https://maps.google.com/?cid=4073985931467584056",
-            "websiteUri": "https://7thstreetburger.com/",
+            "googleMapsUri": "https://maps.google.com/?cid=14509255840829386561",
+            "websiteUri": "https://benschilibowl.com/",
             "businessStatus": "OPERATIONAL",
             "displayName": {
-                "text": "7th Street Burger Williamsburg"
+                "text": "Ben's Chili Bowl"
+            }
+        },
+        {
+            "types": [
+                "fast_food_restaurant",
+                "breakfast_restaurant",
+                "hamburger_restaurant",
+                "coffee_shop",
+                "cafe",
+                "american_restaurant",
+                "sandwich_shop",
+                "restaurant",
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "internationalPhoneNumber": "+1 202-484-0803",
+            "formattedAddress": "400 C St SW, Washington, DC 20024, USA",
+            "rating": 3.8,
+            "googleMapsUri": "https://maps.google.com/?cid=16953549894737201576",
+            "websiteUri": "https://www.mcdonalds.com/us/en-us/location/DC/WASHINGTON/400-C-ST-SW/20860.html?cid=RF:YXT:GMB::Clicks",
+            "businessStatus": "OPERATIONAL",
+            "displayName": {
+                "text": "McDonald's"
+            }
+        },
+        {
+            "types": [
+                "fast_food_restaurant",
+                "breakfast_restaurant",
+                "hamburger_restaurant",
+                "coffee_shop",
+                "cafe",
+                "american_restaurant",
+                "sandwich_shop",
+                "restaurant",
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "internationalPhoneNumber": "+1 202-506-3905",
+            "formattedAddress": "1235 New York Ave NW, Washington, DC 20005, USA",
+            "rating": 3.6,
+            "googleMapsUri": "https://maps.google.com/?cid=12032224450227987828",
+            "websiteUri": "https://www.mcdonalds.com/us/en-us/location/DC/WASHINGTON/1235-NEW-YORK-AVE-NW/25449.html?cid=RF:YXT:GMB::Clicks",
+            "businessStatus": "OPERATIONAL",
+            "displayName": {
+                "text": "McDonald's"
+            }
+        },
+        {
+            "types": [
+                "hamburger_restaurant",
+                "american_restaurant",
+                "bar",
+                "meal_takeaway",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "internationalPhoneNumber": "+1 202-638-0414",
+            "formattedAddress": "1005 7th St NW, Washington, DC 20001, USA",
+            "rating": 4.6,
+            "googleMapsUri": "https://maps.google.com/?cid=15292735469199279016",
+            "websiteUri": "https://www.thecapitalburger.com/locations/dc/washington/washington-dc/3400?cmpid=br:tcb_ag:ie_ch:loc_ca:TCBGMB_sn:gmb_gt:washington-dc-3400_pl:locurl_rd:1001",
+            "businessStatus": "OPERATIONAL",
+            "displayName": {
+                "text": "The Capital Burger"
+            }
+        },
+        {
+            "types": [
+                "fast_food_restaurant",
+                "breakfast_restaurant",
+                "hamburger_restaurant",
+                "coffee_shop",
+                "cafe",
+                "american_restaurant",
+                "sandwich_shop",
+                "restaurant",
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "internationalPhoneNumber": "+1 202-296-1643",
+            "formattedAddress": "1916 M St NW, Washington, DC 20036, USA",
+            "rating": 3.7,
+            "googleMapsUri": "https://maps.google.com/?cid=6154244070692655599",
+            "websiteUri": "https://www.mcdonalds.com/us/en-us/location/DC/WASHINGTON/1916-M-ST-NW/6763.html?cid=RF:YXT:GMB::Clicks",
+            "businessStatus": "OPERATIONAL",
+            "displayName": {
+                "text": "McDonald's"
+            }
+        },
+        {
+            "types": [
+                "hamburger_restaurant",
+                "fast_food_restaurant",
+                "american_restaurant",
+                "sandwich_shop",
+                "meal_takeaway",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "internationalPhoneNumber": "+1 202-869-8345",
+            "formattedAddress": "975 Wharf St SW, Washington, DC 20024, USA",
+            "rating": 4,
+            "googleMapsUri": "https://maps.google.com/?cid=12620812443551002132",
+            "websiteUri": "https://www.shakeshack.com/location/the-wharf-dc?utm_source=google&utm_medium=listing",
+            "businessStatus": "OPERATIONAL",
+            "displayName": {
+                "text": "Shake Shack The Wharf"
+            }
+        },
+        {
+            "types": [
+                "fast_food_restaurant",
+                "breakfast_restaurant",
+                "hamburger_restaurant",
+                "coffee_shop",
+                "cafe",
+                "american_restaurant",
+                "sandwich_shop",
+                "restaurant",
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "internationalPhoneNumber": "+1 202-638-5933",
+            "formattedAddress": "555 13th St NW, Washington, DC 20004, USA",
+            "rating": 3.8,
+            "googleMapsUri": "https://maps.google.com/?cid=3801633168989655581",
+            "websiteUri": "https://www.mcdonalds.com/us/en-us/location/DC/WASHINGTON/555-13TH-ST-NW/10288.html?cid=RF:YXT:GMB::Clicks",
+            "businessStatus": "OPERATIONAL",
+            "displayName": {
+                "text": "McDonald's"
+            }
+        },
+        {
+            "types": [
+                "hamburger_restaurant",
+                "fast_food_restaurant",
+                "american_restaurant",
+                "sandwich_shop",
+                "meal_takeaway",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "internationalPhoneNumber": "+1 202-683-9922",
+            "formattedAddress": "1216 18th St NW, Washington, DC 20036, USA",
+            "rating": 4.2,
+            "googleMapsUri": "https://maps.google.com/?cid=506368414669853653",
+            "websiteUri": "https://www.shakeshack.com/location/dupont-circle-dc?utm_source=google&utm_medium=listing",
+            "businessStatus": "OPERATIONAL",
+            "displayName": {
+                "text": "Shake Shack Dupont Circle"
+            }
+        },
+        {
+            "types": [
+                "fast_food_restaurant",
+                "breakfast_restaurant",
+                "hamburger_restaurant",
+                "coffee_shop",
+                "cafe",
+                "american_restaurant",
+                "sandwich_shop",
+                "restaurant",
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "internationalPhoneNumber": "+1 202-450-4123",
+            "formattedAddress": "750 17th St NW, Washington, DC 20006, USA",
+            "rating": 3.8,
+            "googleMapsUri": "https://maps.google.com/?cid=7015467578385119726",
+            "websiteUri": "https://www.mcdonalds.com/us/en-us/location/DC/WASHINGTON/750-17TH-ST-NW/10382.html?cid=RF:YXT:GMB::Clicks",
+            "businessStatus": "OPERATIONAL",
+            "displayName": {
+                "text": "McDonald's"
+            }
+        },
+        {
+            "types": [
+                "hamburger_restaurant",
+                "fast_food_restaurant",
+                "american_restaurant",
+                "sandwich_shop",
+                "meal_takeaway",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "internationalPhoneNumber": "+1 202-602-0493",
+            "formattedAddress": "1400 14th St NW, Washington, DC 20005, USA",
+            "rating": 4,
+            "googleMapsUri": "https://maps.google.com/?cid=16210752702515147359",
+            "websiteUri": "https://www.shakeshack.com/location/14th-street-logan-circle-dc?utm_source=google&utm_medium=listing",
+            "businessStatus": "OPERATIONAL",
+            "displayName": {
+                "text": "Shake Shack 14th Street Logan Circle"
+            }
+        },
+        {
+            "types": [
+                "fast_food_restaurant",
+                "breakfast_restaurant",
+                "hamburger_restaurant",
+                "coffee_shop",
+                "cafe",
+                "american_restaurant",
+                "sandwich_shop",
+                "restaurant",
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "internationalPhoneNumber": "+1 202-387-2111",
+            "formattedAddress": "2328 Georgia Ave NW, Washington, DC 20001, USA",
+            "rating": 3.5,
+            "googleMapsUri": "https://maps.google.com/?cid=5632728565021389231",
+            "websiteUri": "https://www.mcdonalds.com/us/en-us/location/DC/WASHINGTON/2328-GEORGIA-AVE-NW/5176.html?cid=RF:YXT:GMB::Clicks",
+            "businessStatus": "OPERATIONAL",
+            "displayName": {
+                "text": "McDonald's"
             }
         },
         {
             "types": [
                 "restaurant",
-                "steak_house",
                 "hamburger_restaurant",
-                "bar",
+                "steak_house",
+                "seafood_restaurant",
                 "american_restaurant",
-                "point_of_interest",
+                "bar",
                 "food",
+                "point_of_interest",
                 "establishment"
             ],
-            "internationalPhoneNumber": "+1 718-947-5040",
-            "formattedAddress": "139 Flatbush Ave Level 2, Brooklyn, NY 11217, USA",
-            "rating": 3.5,
-            "googleMapsUri": "https://maps.google.com/?cid=15661427148362500991",
-            "websiteUri": "https://restaurants.applebees.com/en-us/ny/brooklyn/139-flatbush-ave.-level-2-76072?utm_source=google&utm_medium=organic&utm_campaign=google_my_business&utm_term=76072&utm_content=website",
+            "internationalPhoneNumber": "+1 202-463-6610",
+            "formattedAddress": "1600 K St NW, Washington, DC 20006, USA",
+            "rating": 4.3,
+            "googleMapsUri": "https://maps.google.com/?cid=3846808840517329655",
+            "websiteUri": "http://pjclarkes.com/location/washington",
             "businessStatus": "OPERATIONAL",
             "displayName": {
-                "text": "Applebee's Grill + Bar"
+                "text": "P.J. Clarke\u2019s DC"
+            }
+        },
+        {
+            "types": [
+                "fast_food_restaurant",
+                "breakfast_restaurant",
+                "hamburger_restaurant",
+                "coffee_shop",
+                "cafe",
+                "american_restaurant",
+                "sandwich_shop",
+                "restaurant",
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "internationalPhoneNumber": "+1 571-257-7789",
+            "formattedAddress": "1800 N Lynn St, Arlington, VA 22209, USA",
+            "rating": 3.6,
+            "googleMapsUri": "https://maps.google.com/?cid=5955873903182078135",
+            "websiteUri": "https://www.mcdonalds.com/us/en-us/location/VA/ARLINGTON/1800-NORTH-LYNN-STREET-SUITE-117/33371.html?cid=RF:YXT:GMB::Clicks",
+            "businessStatus": "OPERATIONAL",
+            "displayName": {
+                "text": "McDonald's"
+            }
+        },
+        {
+            "types": [
+                "american_restaurant",
+                "hamburger_restaurant",
+                "bar",
+                "sandwich_shop",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "internationalPhoneNumber": "+1 202-393-4232",
+            "formattedAddress": "1730 Pennsylvania Avenue NW, Washington, DC 20006, USA",
+            "rating": 4.5,
+            "googleMapsUri": "https://maps.google.com/?cid=7127432081013398798",
+            "websiteUri": "https://www.grilledcheesedc.com/?y_source=1_NzU1NzUyOTUtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+            "businessStatus": "OPERATIONAL",
+            "displayName": {
+                "text": "GCDC Grilled Cheese Bar"
+            }
+        },
+        {
+            "types": [
+                "hamburger_restaurant",
+                "fast_food_restaurant",
+                "american_restaurant",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "internationalPhoneNumber": "+1 202-543-8222",
+            "formattedAddress": "303 Pennsylvania Ave. SE, Washington, DC 20003, USA",
+            "rating": 4.3,
+            "googleMapsUri": "https://maps.google.com/?cid=5348722612070824281",
+            "websiteUri": "http://www.goodstuffeatery.com/",
+            "businessStatus": "OPERATIONAL",
+            "displayName": {
+                "text": "Good Stuff Eatery"
+            }
+        },
+        {
+            "types": [
+                "fast_food_restaurant",
+                "breakfast_restaurant",
+                "hamburger_restaurant",
+                "coffee_shop",
+                "cafe",
+                "american_restaurant",
+                "sandwich_shop",
+                "restaurant",
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "internationalPhoneNumber": "+1 202-381-0900",
+            "formattedAddress": "75 New York Ave NE, Washington, DC 20002, USA",
+            "rating": 3.3,
+            "googleMapsUri": "https://maps.google.com/?cid=9617155132740363043",
+            "websiteUri": "https://www.mcdonalds.com/us/en-us/location/DC/WASHINGTON/75-NEW-YORK-AVE-NE/650.html?cid=RF:YXT:GMB::Clicks",
+            "businessStatus": "OPERATIONAL",
+            "displayName": {
+                "text": "McDonald's"
+            }
+        },
+        {
+            "types": [
+                "hamburger_restaurant",
+                "brunch_restaurant",
+                "american_restaurant",
+                "bar",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "internationalPhoneNumber": "+1 202-733-4808",
+            "formattedAddress": "3000 Connecticut Ave NW, Washington, DC 20008, USA",
+            "rating": 4.4,
+            "googleMapsUri": "https://maps.google.com/?cid=13477705958230738110",
+            "websiteUri": "http://www.dukescounter.com/",
+            "businessStatus": "OPERATIONAL",
+            "displayName": {
+                "text": "Duke's Counter"
             }
         }
     ]

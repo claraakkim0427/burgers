@@ -42,7 +42,7 @@ response = requests.post(
         "maxResultCount": 20,
         "locationRestriction": {
             "circle": {
-                "center": brooklyn_ny,
+                "center": washington_dc,
                 "radius": 5000.0,
             }
         },
