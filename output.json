@@ -1,0 +1,434 @@
+{
+    "places": [
+        {
+            "types": [
+                "american_restaurant",
+                "brunch_restaurant",
+                "hamburger_restaurant",
+                "bar",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "internationalPhoneNumber": "+1 718-488-7800",
+            "formattedAddress": "166 Dekalb Ave, Brooklyn, NY 11217, USA",
+            "rating": 4.4,
+            "googleMapsUri": "https://maps.google.com/?cid=3367954505002117835",
+            "websiteUri": "http://waltersbrooklyn.com/",
+            "displayName": {
+                "text": "Walter's"
+            }
+        },
+        {
+            "types": [
+                "hamburger_restaurant",
+                "sandwich_shop",
+                "fast_food_restaurant",
+                "meal_takeaway",
+                "american_restaurant",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "internationalPhoneNumber": "+1 718-307-7590",
+            "formattedAddress": "409 Fulton St, Brooklyn, NY 11201, USA",
+            "rating": 4.3,
+            "googleMapsUri": "https://maps.google.com/?cid=4786721306117911370",
+            "websiteUri": "https://www.shakeshack.com/location/downtown-brooklyn-ny?utm_source=google&utm_medium=listing",
+            "displayName": {
+                "text": "Shake Shack Downtown Brooklyn"
+            }
+        },
+        {
+            "types": [
+                "pizza_restaurant",
+                "meal_delivery",
+                "meal_takeaway",
+                "hamburger_restaurant",
+                "american_restaurant",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "internationalPhoneNumber": "+1 347-844-9588",
+            "formattedAddress": "919 Fulton St, Brooklyn, NY 11238, USA",
+            "rating": 4.4,
+            "googleMapsUri": "https://maps.google.com/?cid=8025592648345834275",
+            "websiteUri": "https://www.pizzalovesemily.com/location/brooklyn/",
+            "displayName": {
+                "text": "Emily"
+            }
+        },
+        {
+            "types": [
+                "american_restaurant",
+                "brunch_restaurant",
+                "hamburger_restaurant",
+                "bar",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "internationalPhoneNumber": "+1 718-486-3077",
+            "formattedAddress": "85 Broadway, Brooklyn, NY 11249, USA",
+            "rating": 4.3,
+            "googleMapsUri": "https://maps.google.com/?cid=3719098524587665183",
+            "websiteUri": "http://dinernyc.com/",
+            "displayName": {
+                "text": "Diner"
+            }
+        },
+        {
+            "types": [
+                "fast_food_restaurant",
+                "hamburger_restaurant",
+                "american_restaurant",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "internationalPhoneNumber": "+1 718-287-5005",
+            "formattedAddress": "469 Flatbush Ave, Brooklyn, NY 11225, USA",
+            "rating": 3.6,
+            "googleMapsUri": "https://maps.google.com/?cid=18130969664018427180",
+            "websiteUri": "https://locations.wendys.com/united-states/ny/brooklyn/469-flatbush-ave?utm_source=Yext&utm_medium=Google_My_Business&utm_campaign=Local_Search&utm_content=EN_US",
+            "displayName": {
+                "text": "Wendy's"
+            }
+        },
+        {
+            "types": [
+                "hamburger_restaurant",
+                "sandwich_shop",
+                "fast_food_restaurant",
+                "meal_takeaway",
+                "american_restaurant",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "internationalPhoneNumber": "+1 929-427-0420",
+            "formattedAddress": "160 Berry St, Brooklyn, NY 11249, USA",
+            "rating": 4.3,
+            "googleMapsUri": "https://maps.google.com/?cid=16770742442048044046",
+            "websiteUri": "https://www.shakeshack.com/location/williamsburg-ny?utm_source=google&utm_medium=listing",
+            "displayName": {
+                "text": "Shake Shack Williamsburg"
+            }
+        },
+        {
+            "types": [
+                "cafe",
+                "coffee_shop",
+                "sandwich_shop",
+                "meal_takeaway",
+                "hamburger_restaurant",
+                "american_restaurant",
+                "bar",
+                "restaurant",
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "internationalPhoneNumber": "+1 718-399-2211",
+            "formattedAddress": "409 Lincoln Pl, Brooklyn, NY 11238, USA",
+            "rating": 4.4,
+            "googleMapsUri": "https://maps.google.com/?cid=15299862879029215794",
+            "websiteUri": "http://www.stationfoods.com/",
+            "displayName": {
+                "text": "Lincoln Station"
+            }
+        },
+        {
+            "types": [
+                "fast_food_restaurant",
+                "coffee_shop",
+                "breakfast_restaurant",
+                "sandwich_shop",
+                "cafe",
+                "hamburger_restaurant",
+                "american_restaurant",
+                "restaurant",
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "internationalPhoneNumber": "+1 929-497-0172",
+            "formattedAddress": "82 Court St, Brooklyn, NY 11201, USA",
+            "rating": 3.5,
+            "googleMapsUri": "https://maps.google.com/?cid=3572484155236151892",
+            "websiteUri": "https://www.mcdonalds.com/us/en-us/location/NY/BROOKLYN/82-COURT-ST/4705.html?cid=RF:YXT:GMB::Clicks",
+            "displayName": {
+                "text": "McDonald's"
+            }
+        },
+        {
+            "types": [
+                "hamburger_restaurant",
+                "sandwich_shop",
+                "fast_food_restaurant",
+                "meal_takeaway",
+                "american_restaurant",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "internationalPhoneNumber": "+1 347-442-7711",
+            "formattedAddress": "170 Flatbush Ave, Brooklyn, NY 11217, USA",
+            "rating": 4.2,
+            "googleMapsUri": "https://maps.google.com/?cid=3370748772294951002",
+            "websiteUri": "https://www.shakeshack.com/location/flatbush-barclays-ctr-ny?utm_source=google&utm_medium=listing",
+            "displayName": {
+                "text": "Shake Shack Flatbush - Barclays Ctr"
+            }
+        },
+        {
+            "types": [
+                "american_restaurant",
+                "meal_delivery",
+                "brunch_restaurant",
+                "meal_takeaway",
+                "hamburger_restaurant",
+                "bar",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "internationalPhoneNumber": "+1 718-852-8490",
+            "formattedAddress": "524 Court St, Brooklyn, NY 11231, USA",
+            "rating": 4.5,
+            "googleMapsUri": "https://maps.google.com/?cid=17317402706294528394",
+            "websiteUri": "http://buttermilkchannelnyc.com/",
+            "displayName": {
+                "text": "Buttermilk Channel"
+            }
+        },
+        {
+            "types": [
+                "fast_food_restaurant",
+                "coffee_shop",
+                "breakfast_restaurant",
+                "sandwich_shop",
+                "cafe",
+                "hamburger_restaurant",
+                "american_restaurant",
+                "restaurant",
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "internationalPhoneNumber": "+1 718-599-2870",
+            "formattedAddress": "700 Broadway, Brooklyn, NY 11206, USA",
+            "rating": 3.8,
+            "googleMapsUri": "https://maps.google.com/?cid=1599988420802622232",
+            "websiteUri": "https://www.mcdonalds.com/us/en-us/location/NY/BROOKLYN/700-BROADWAY/3375.html?cid=RF:YXT:GMB::Clicks",
+            "displayName": {
+                "text": "McDonald's"
+            }
+        },
+        {
+            "types": [
+                "fast_food_restaurant",
+                "coffee_shop",
+                "breakfast_restaurant",
+                "sandwich_shop",
+                "cafe",
+                "hamburger_restaurant",
+                "american_restaurant",
+                "restaurant",
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "internationalPhoneNumber": "+1 718-783-5766",
+            "formattedAddress": "840 Atlantic Ave, Brooklyn, NY 11238, USA",
+            "rating": 3.5,
+            "googleMapsUri": "https://maps.google.com/?cid=7797529834684841979",
+            "websiteUri": "https://www.mcdonalds.com/us/en-us/location/NY/BROOKLYN/840-ATLANTIC-AVE/23105.html?cid=RF:YXT:GMB::Clicks",
+            "displayName": {
+                "text": "McDonald's"
+            }
+        },
+        {
+            "types": [
+                "fast_food_restaurant",
+                "coffee_shop",
+                "breakfast_restaurant",
+                "sandwich_shop",
+                "cafe",
+                "hamburger_restaurant",
+                "american_restaurant",
+                "restaurant",
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "internationalPhoneNumber": "+1 929-442-5594",
+            "formattedAddress": "395 Flatbush Ave Ext, Brooklyn, NY 11201, USA",
+            "rating": 3.6,
+            "googleMapsUri": "https://maps.google.com/?cid=2761305573940483036",
+            "websiteUri": "https://www.mcdonalds.com/us/en-us/location/NY/BROOKLYN/395-FLATBUSH-AVE-EXTEN/4025.html?cid=RF:YXT:GMB::Clicks",
+            "displayName": {
+                "text": "McDonald's"
+            }
+        },
+        {
+            "types": [
+                "night_club",
+                "hamburger_restaurant",
+                "american_restaurant",
+                "bar",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "internationalPhoneNumber": "+1 347-767-2587",
+            "formattedAddress": "448 Dean St, Brooklyn, NY 11217, USA",
+            "rating": 4.6,
+            "googleMapsUri": "https://maps.google.com/?cid=12760817624955396117",
+            "websiteUri": "https://charmbarrestaurant.com/",
+            "displayName": {
+                "text": "Charm Bar & Restaurant"
+            }
+        },
+        {
+            "types": [
+                "hamburger_restaurant",
+                "american_restaurant",
+                "bar",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "internationalPhoneNumber": "+1 347-365-2710",
+            "formattedAddress": "234 Starr St, Brooklyn, NY 11237, USA",
+            "rating": 4.6,
+            "googleMapsUri": "https://maps.google.com/?cid=10721870777767595349",
+            "websiteUri": "http://santasalsastreet.com/",
+            "displayName": {
+                "text": "Santa Salsa"
+            }
+        },
+        {
+            "types": [
+                "fast_food_restaurant",
+                "meal_takeaway",
+                "hamburger_restaurant",
+                "american_restaurant",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "internationalPhoneNumber": "+1 347-486-3550",
+            "formattedAddress": "5212 Kings Hwy Suite B, Brooklyn, NY 11234, USA",
+            "rating": 3.8,
+            "googleMapsUri": "https://maps.google.com/?cid=17404304058181411773",
+            "websiteUri": "https://locations.jollibeefoods.com/usa/ny/brooklyn/5212-kings-highway?utm_medium=organic&utm_source=local&utm_campaign=googlelistings&utm_content=website&utm_term=3086",
+            "displayName": {
+                "text": "Jollibee"
+            }
+        },
+        {
+            "types": [
+                "fast_food_restaurant",
+                "coffee_shop",
+                "breakfast_restaurant",
+                "sandwich_shop",
+                "cafe",
+                "hamburger_restaurant",
+                "american_restaurant",
+                "restaurant",
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "internationalPhoneNumber": "+1 718-573-8797",
+            "formattedAddress": "1380 Broadway, Brooklyn, NY 11221, USA",
+            "rating": 3.6,
+            "googleMapsUri": "https://maps.google.com/?cid=1705895180805640166",
+            "websiteUri": "https://www.mcdonalds.com/us/en-us/location/NY/BROOKLYN/1380-BROADWAY/27377.html?cid=RF:YXT:GMB::Clicks",
+            "displayName": {
+                "text": "McDonald's"
+            }
+        },
+        {
+            "types": [
+                "fast_food_restaurant",
+                "coffee_shop",
+                "breakfast_restaurant",
+                "sandwich_shop",
+                "cafe",
+                "hamburger_restaurant",
+                "american_restaurant",
+                "restaurant",
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "internationalPhoneNumber": "+1 718-302-3177",
+            "formattedAddress": "267 Broadway, Brooklyn, NY 11211, USA",
+            "rating": 3.7,
+            "googleMapsUri": "https://maps.google.com/?cid=1476230673518531756",
+            "websiteUri": "https://www.mcdonalds.com/us/en-us/location/NY/BROOKLYN/267-BROADWAY/21402.html?cid=RF:YXT:GMB::Clicks",
+            "displayName": {
+                "text": "McDonald's"
+            }
+        },
+        {
+            "types": [
+                "hamburger_restaurant",
+                "american_restaurant",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "internationalPhoneNumber": "+1 646-224-6919",
+            "formattedAddress": "177 Bedford Ave, Brooklyn, NY 11211, USA",
+            "rating": 4.4,
+            "googleMapsUri": "https://maps.google.com/?cid=4073985931467584056",
+            "websiteUri": "https://7thstreetburger.com/",
+            "displayName": {
+                "text": "7th Street Burger Williamsburg"
+            }
+        },
+        {
+            "types": [
+                "restaurant",
+                "steak_house",
+                "hamburger_restaurant",
+                "american_restaurant",
+                "bar",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "internationalPhoneNumber": "+1 718-947-5040",
+            "formattedAddress": "139 Flatbush Ave Level 2, Brooklyn, NY 11217, USA",
+            "rating": 3.5,
+            "googleMapsUri": "https://maps.google.com/?cid=15661427148362500991",
+            "websiteUri": "https://restaurants.applebees.com/en-us/ny/brooklyn/139-flatbush-ave.-level-2-76072?utm_source=google&utm_medium=organic&utm_campaign=google_my_business&utm_term=76072&utm_content=website",
+            "displayName": {
+                "text": "Applebee's Grill + Bar"
+            }
+        }
+    ]
+}
