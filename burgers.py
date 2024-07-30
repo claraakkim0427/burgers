@@ -32,7 +32,11 @@ washington_dc = {"latitude": 38.9072, "longitude": -77.0369}
 
 response = requests.post(
     "https://places.googleapis.com/v1/places:searchNearby",
-    headers={"X-Goog-Api-Key": os.environ["API_KEY"], "X-Goog-FieldMask": "places.displayName.text,places.formattedAddress,places.types,places.websiteUri,places.internationalPhoneNumber,places.rating,places.googleMapsUri", "Content-Type": "application/json"},
+    headers={
+        "X-Goog-Api-Key": os.environ["API_KEY"],
+        "X-Goog-FieldMask": "places.displayName.text,places.formattedAddress,places.types,places.websiteUri,places.internationalPhoneNumber,places.rating,places.googleMapsUri,places.businessStatus",
+        "Content-Type": "application/json",
+    },
     json={
         "includedTypes": ["hamburger_restaurant"],
         "maxResultCount": 20,
@@ -49,23 +53,25 @@ data = response.json()
 # Extract displayName text and other fields
 places_data = []
 for place in data.get("places", []):
-    display_name = place.get("displayName", {}).get("text", "")
-    formatted_address = place.get("formattedAddress", "")
-    types = place.get("types", [])
-    website_uri = place.get("websiteUri", "")
-    international_phone_number = place.get("internationalPhoneNumber", "")
-    rating = place.get("rating", "")
-    google_maps_uri = place.get("googleMapsUri", "")
+    if place.get("businessStatus", "") == "OPERATIONAL":
+        display_name = place.get("displayName", {}).get("text", "")
+        formatted_address = place.get("formattedAddress", "")
+        types = place.get("types", [])
+        website_uri = place.get("websiteUri", "")
+        international_phone_number = place.get("internationalPhoneNumber", "")
+        rating = place.get("rating", "")
+        google_maps_uri = place.get("googleMapsUri", "")
 
-    places_data.append({
-        "displayName": display_name,
-        "formattedAddress": formatted_address,
-        "types": types,
-        "websiteUri": website_uri,
-        "internationalPhoneNumber": international_phone_number,
-        "rating": rating,
-        "googleMapsUri": google_maps_uri
-    })
+        places_data.append(
+            {
+                "displayName": display_name,
+                "formattedAddress": formatted_address,
+                "types": types,
+                "websiteUri": website_uri,
+                "internationalPhoneNumber": international_phone_number,
+                "rating": rating,
+                "googleMapsUri": google_maps_uri,
+            })
 
 # Convert to DataFrame and save to CSV
 df = pd.DataFrame(places_data)
